@@ -8,5 +8,5 @@
 ## 📫 Как со мной связаться:
 Вы можете связаться со мной по электронной почте, указанной в моем профиле на github, или через любой из моих социальных аккаунтов.
 
-[[img src=logo_vk.png" height="40em](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)" align="center" alt="Профиль ВК" title="Профиль ВК перейти"/>](https://vk.com/honeynus)
+[(https://img.shields.io/badge/вконтакте-%232E87FB.svg) align="center" alt="Профиль ВК" title="Профиль ВК перейти"/>](https://vk.com/honeynus)
 
