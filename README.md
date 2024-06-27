@@ -1,5 +1,3 @@
-# Пример README
-
 [Посмотреть анимацию](hello-animation.html)
 
 ### Языки
