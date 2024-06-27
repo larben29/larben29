@@ -9,4 +9,4 @@
 Вы можете связаться со мной по электронной почте, указанной в моем профиле на github, или через любой из моих социальных аккаунтов.
 
 [(https://img.shields.io/badge/вконтакте-%232E87FB.svg) align="center" alt="Профиль ВК" title="Профиль ВК перейти"/>](https://vk.com/honeynus)
-
+[<img src="[https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)" height="40em" align="center" alt="Сылка на профиль ВК" title="Сылка на профиль ВК"/>]([https://linkedin.com/in/Raymo111](https://vk.com/honeynus))
