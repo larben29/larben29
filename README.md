@@ -1,4 +1,4 @@
-[Посмотреть анимацию](hello-animation.html)
+![Animation](hello-animation.gif)
 
 ### Языки
 
