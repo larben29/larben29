@@ -1,3 +1,6 @@
+## Example HTML
+
+```html
 <div class="content">
   <div class="content__container">
     <p class="content__container__text">
@@ -12,6 +15,7 @@
     </ul>
   </div>
 </div>
+
 
 ### Языки
 
