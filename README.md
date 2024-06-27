@@ -8,5 +8,5 @@
 ## 📫 Как со мной связаться:
 Вы можете связаться со мной по электронной почте, указанной в моем профиле на github, или через любой из моих социальных аккаунтов.
 
-[<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
+[<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" height="40em" align="center" alt="Сылка на профиль ВК" title="Сылка на профиль ВК"/>](https://vk.com/honeynus)
 
